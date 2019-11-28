@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
 		//ramin maleki
 		//maleki
 		
-		//matiooogy
+		//ma
     }
 }
